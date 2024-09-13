@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Python and containerization using Docker and Kubernetes
 - 💞️ I’m looking to collaborate on some cool projects ideas
 - 📫 How to reach me ...  [LinkedIn](https://www.linkedin.com/in/ashun-kothari-387b8b18/)
-
+  
+[![Ashun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogue-gamer-ryt&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 rogue-gamer-ryt/rogue-gamer-ryt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
