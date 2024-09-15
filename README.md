@@ -17,7 +17,7 @@
 ## 🌟 Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-gamer-ryt&show_icons=true&theme=dark#gh-dark-mode-only&border=0&radius=20)](https://github.com/rogue-gamer-ryt/)  
 
-## LeetCode Stats
+## 🏅 LeetCode Stats
 ![LeetCode](https://leetcard.jacoblin.cool/ashunk?border=0&radius=20)
 
 <!---
